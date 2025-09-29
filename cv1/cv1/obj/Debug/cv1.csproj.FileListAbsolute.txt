@@ -1,0 +1,8 @@
+C:\Users\KAN0316\Desktop\projects\cv1\cv1\bin\Debug\cv1.exe.config
+C:\Users\KAN0316\Desktop\projects\cv1\cv1\bin\Debug\cv1.exe
+C:\Users\KAN0316\Desktop\projects\cv1\cv1\bin\Debug\cv1.pdb
+C:\Users\KAN0316\Desktop\projects\cv1\cv1\obj\Debug\cv1.csproj.AssemblyReference.cache
+C:\Users\KAN0316\Desktop\projects\cv1\cv1\obj\Debug\cv1.csproj.CoreCompileInputs.cache
+C:\Users\KAN0316\Desktop\projects\cv1\cv1\obj\Debug\cv1.exe
+C:\Users\KAN0316\Desktop\projects\cv1\cv1\obj\Debug\cv1.pdb
+C:\Users\KAN0316\Desktop\projects\cv1\cv1\obj\Debug\cv1.exe.config

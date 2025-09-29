@@ -1,0 +1,14 @@
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\bin\Debug\net9.0\cv2.exe
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\bin\Debug\net9.0\cv2.deps.json
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\bin\Debug\net9.0\cv2.runtimeconfig.json
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\bin\Debug\net9.0\cv2.dll
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\bin\Debug\net9.0\cv2.pdb
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\obj\Debug\net9.0\cv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\obj\Debug\net9.0\cv2.AssemblyInfoInputs.cache
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\obj\Debug\net9.0\cv2.AssemblyInfo.cs
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\obj\Debug\net9.0\cv2.csproj.CoreCompileInputs.cache
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\obj\Debug\net9.0\cv2.dll
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\obj\Debug\net9.0\refint\cv2.dll
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\obj\Debug\net9.0\cv2.pdb
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\obj\Debug\net9.0\cv2.genruntimeconfig.cache
+C:\Users\KAN0316\Desktop\projects\cv2\cv2\obj\Debug\net9.0\ref\cv2.dll
