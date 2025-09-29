@@ -1,0 +1,15 @@
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\bin\Debug\net9.0\cv3.exe
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\bin\Debug\net9.0\cv3.deps.json
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\bin\Debug\net9.0\cv3.runtimeconfig.json
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\bin\Debug\net9.0\cv3.dll
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\bin\Debug\net9.0\cv3.pdb
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\obj\Debug\net9.0\cv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\obj\Debug\net9.0\cv3.AssemblyInfoInputs.cache
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\obj\Debug\net9.0\cv3.AssemblyInfo.cs
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\obj\Debug\net9.0\cv3.csproj.CoreCompileInputs.cache
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\obj\Debug\net9.0\cv3.dll
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\obj\Debug\net9.0\refint\cv3.dll
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\obj\Debug\net9.0\cv3.pdb
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\obj\Debug\net9.0\cv3.genruntimeconfig.cache
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\obj\Debug\net9.0\ref\cv3.dll
+C:\Users\KAN0316\Desktop\projects\cv3\cv3\obj\Debug\net9.0\cv3.sourcelink.json
