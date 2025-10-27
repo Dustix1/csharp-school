@@ -1,0 +1,15 @@
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\bin\Debug\net9.0\cv7.exe
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\bin\Debug\net9.0\cv7.deps.json
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\bin\Debug\net9.0\cv7.runtimeconfig.json
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\bin\Debug\net9.0\cv7.dll
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\bin\Debug\net9.0\cv7.pdb
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\obj\Debug\net9.0\cv7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\obj\Debug\net9.0\cv7.AssemblyInfoInputs.cache
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\obj\Debug\net9.0\cv7.AssemblyInfo.cs
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\obj\Debug\net9.0\cv7.csproj.CoreCompileInputs.cache
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\obj\Debug\net9.0\cv7.sourcelink.json
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\obj\Debug\net9.0\cv7.dll
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\obj\Debug\net9.0\refint\cv7.dll
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\obj\Debug\net9.0\cv7.pdb
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\obj\Debug\net9.0\cv7.genruntimeconfig.cache
+C:\Users\KAN0316\Desktop\projects\cv7\cv7\obj\Debug\net9.0\ref\cv7.dll

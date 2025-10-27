@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAN0316\\Desktop\\projects\\cv7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA680B49-60B7-4ADA-9473-440799125449}|cv7\\cv7.csproj|c:\\users\\kan0316\\desktop\\projects\\cv7\\cv7\\treemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA680B49-60B7-4ADA-9473-440799125449}|cv7\\cv7.csproj|solutionrelative:cv7\\treemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA680B49-60B7-4ADA-9473-440799125449}|cv7\\cv7.csproj|c:\\users\\kan0316\\desktop\\projects\\cv7\\cv7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA680B49-60B7-4ADA-9473-440799125449}|cv7\\cv7.csproj|solutionrelative:cv7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA680B49-60B7-4ADA-9473-440799125449}|cv7\\cv7.csproj|c:\\users\\kan0316\\desktop\\projects\\cv7\\cv7\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA680B49-60B7-4ADA-9473-440799125449}|cv7\\cv7.csproj|solutionrelative:cv7\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA680B49-60B7-4ADA-9473-440799125449}|cv7\\cv7.csproj|c:\\users\\kan0316\\desktop\\projects\\cv7\\cv7\\ikeyvaluepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA680B49-60B7-4ADA-9473-440799125449}|cv7\\cv7.csproj|solutionrelative:cv7\\ikeyvaluepair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA680B49-60B7-4ADA-9473-440799125449}|cv7\\cv7.csproj|c:\\users\\kan0316\\desktop\\projects\\cv7\\cv7\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA680B49-60B7-4ADA-9473-440799125449}|cv7\\cv7.csproj|solutionrelative:cv7\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreeMap.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv7\\cv7\\TreeMap.cs",
+              "RelativeDocumentMoniker": "cv7\\TreeMap.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv7\\cv7\\TreeMap.cs",
+              "RelativeToolTip": "cv7\\TreeMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:35:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv7\\cv7\\Node.cs",
+              "RelativeDocumentMoniker": "cv7\\Node.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv7\\cv7\\Node.cs",
+              "RelativeToolTip": "cv7\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:27:21.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKeyValuePair.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv7\\cv7\\IKeyValuePair.cs",
+              "RelativeDocumentMoniker": "cv7\\IKeyValuePair.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv7\\cv7\\IKeyValuePair.cs",
+              "RelativeToolTip": "cv7\\IKeyValuePair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:21:26.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayHelper.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv7\\cv7\\ArrayHelper.cs",
+              "RelativeDocumentMoniker": "cv7\\ArrayHelper.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv7\\cv7\\ArrayHelper.cs",
+              "RelativeToolTip": "cv7\\ArrayHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:05:33.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv7\\cv7\\Program.cs",
+              "RelativeDocumentMoniker": "cv7\\Program.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv7\\cv7\\Program.cs",
+              "RelativeToolTip": "cv7\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:56:45.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
