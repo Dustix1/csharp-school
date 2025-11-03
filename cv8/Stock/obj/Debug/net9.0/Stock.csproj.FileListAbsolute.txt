@@ -1,0 +1,12 @@
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\bin\Debug\net9.0\Stock.deps.json
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\bin\Debug\net9.0\Stock.dll
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\bin\Debug\net9.0\Stock.pdb
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\obj\Debug\net9.0\Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\obj\Debug\net9.0\Stock.AssemblyInfoInputs.cache
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\obj\Debug\net9.0\Stock.AssemblyInfo.cs
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\obj\Debug\net9.0\Stock.csproj.CoreCompileInputs.cache
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\obj\Debug\net9.0\Stock.sourcelink.json
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\obj\Debug\net9.0\Stock.dll
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\obj\Debug\net9.0\refint\Stock.dll
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\obj\Debug\net9.0\Stock.pdb
+C:\Users\KAN0316\Desktop\projects\cv8\Stock\obj\Debug\net9.0\ref\Stock.dll

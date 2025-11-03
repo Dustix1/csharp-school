@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDA0BBB-EE08-4ABB-B0AA-26B5CED6910A}|cv8\\cv8.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\cv8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDA0BBB-EE08-4ABB-B0AA-26B5CED6910A}|cv8\\cv8.csproj|solutionrelative:cv8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\filters\\widthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\filters\\widthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\filters\\wheelcountfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\filters\\wheelcountfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\filters\\pricefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\filters\\pricefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\filters\\invalidfilterargumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\filters\\invalidfilterargumentsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\filterevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\filterevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\products\\mobilephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\products\\mobilephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\ifilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\ifilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\products\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\products\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\products\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\products\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\products\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\products\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|c:\\users\\kan0316\\desktop\\projects\\cv8\\stock\\duplicitproductexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065C65FA-7083-46F4-B67E-5010DA615745}|Stock\\Stock.csproj|solutionrelative:stock\\duplicitproductexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Products\\Bike.cs",
+              "RelativeDocumentMoniker": "Stock\\Products\\Bike.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Products\\Bike.cs",
+              "RelativeToolTip": "Stock\\Products\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:13:30.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Products\\Car.cs",
+              "RelativeDocumentMoniker": "Stock\\Products\\Car.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Products\\Car.cs",
+              "RelativeToolTip": "Stock\\Products\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:13:25.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WheelCountFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Filters\\WheelCountFilter.cs",
+              "RelativeDocumentMoniker": "Stock\\Filters\\WheelCountFilter.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Filters\\WheelCountFilter.cs",
+              "RelativeToolTip": "Stock\\Filters\\WheelCountFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:03:44.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriceFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Filters\\PriceFilter.cs",
+              "RelativeDocumentMoniker": "Stock\\Filters\\PriceFilter.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Filters\\PriceFilter.cs",
+              "RelativeToolTip": "Stock\\Filters\\PriceFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:01:04.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WidthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Filters\\WidthFilter.cs",
+              "RelativeDocumentMoniker": "Stock\\Filters\\WidthFilter.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Filters\\WidthFilter.cs",
+              "RelativeToolTip": "Stock\\Filters\\WidthFilter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:51:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\IFilter.cs",
+              "RelativeDocumentMoniker": "Stock\\IFilter.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\IFilter.cs",
+              "RelativeToolTip": "Stock\\IFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:56:48.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidFilterArgumentsException.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Filters\\InvalidFilterArgumentsException.cs",
+              "RelativeDocumentMoniker": "Stock\\Filters\\InvalidFilterArgumentsException.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Filters\\InvalidFilterArgumentsException.cs",
+              "RelativeToolTip": "Stock\\Filters\\InvalidFilterArgumentsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:52:58.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MobilePhone.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Products\\MobilePhone.cs",
+              "RelativeDocumentMoniker": "Stock\\Products\\MobilePhone.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Products\\MobilePhone.cs",
+              "RelativeToolTip": "Stock\\Products\\MobilePhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:50:22.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\FilterEvaluator.cs",
+              "RelativeDocumentMoniker": "Stock\\FilterEvaluator.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\FilterEvaluator.cs",
+              "RelativeToolTip": "Stock\\FilterEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:34:44.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Products\\Voucher.cs",
+              "RelativeDocumentMoniker": "Stock\\Products\\Voucher.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Products\\Voucher.cs",
+              "RelativeToolTip": "Stock\\Products\\Voucher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:28:09.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DuplicitProductException.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\DuplicitProductException.cs",
+              "RelativeDocumentMoniker": "Stock\\DuplicitProductException.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\DuplicitProductException.cs",
+              "RelativeToolTip": "Stock\\DuplicitProductException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:22:35.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\IProduct.cs",
+              "RelativeDocumentMoniker": "Stock\\IProduct.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\IProduct.cs",
+              "RelativeToolTip": "Stock\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:10:21.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Stock.cs",
+              "RelativeDocumentMoniker": "Stock\\Stock.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\Stock\\Stock.cs",
+              "RelativeToolTip": "Stock\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:07:17.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\cv8\\Program.cs",
+              "RelativeDocumentMoniker": "cv8\\Program.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv8\\cv8\\Program.cs",
+              "RelativeToolTip": "cv8\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:03:04.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
