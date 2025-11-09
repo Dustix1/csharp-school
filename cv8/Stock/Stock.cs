@@ -8,7 +8,7 @@
         {
             foreach (T listItem in products)
             {
-                if (object.ReferenceEquals(products.Last(), item))
+                if (listItem, item))
                 {
                     throw new DuplicitProductException() { Product = item };
                 }
