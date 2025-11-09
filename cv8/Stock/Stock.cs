@@ -8,7 +8,7 @@
         {
             foreach (T listItem in products)
             {
-                if (listItem, item))
+                if (listItem, item)
                 {
                     throw new DuplicitProductException() { Product = item };
                 }
