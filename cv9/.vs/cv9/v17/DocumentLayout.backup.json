@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAN0316\\Desktop\\projects\\cv9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19030D-3E10-4FBE-B76E-EAC77AE7302D}|cv9\\cv9.csproj|c:\\users\\kan0316\\desktop\\projects\\cv9\\cv9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F19030D-3E10-4FBE-B76E-EAC77AE7302D}|cv9\\cv9.csproj|solutionrelative:cv9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19030D-3E10-4FBE-B76E-EAC77AE7302D}|cv9\\cv9.csproj|c:\\users\\kan0316\\desktop\\projects\\cv9\\cv9\\stringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F19030D-3E10-4FBE-B76E-EAC77AE7302D}|cv9\\cv9.csproj|solutionrelative:cv9\\stringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F19030D-3E10-4FBE-B76E-EAC77AE7302D}|cv9\\cv9.csproj|c:\\users\\kan0316\\desktop\\projects\\cv9\\cv9\\numbercomarer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F19030D-3E10-4FBE-B76E-EAC77AE7302D}|cv9\\cv9.csproj|solutionrelative:cv9\\numbercomarer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringComparer.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv9\\cv9\\StringComparer.cs",
+              "RelativeDocumentMoniker": "cv9\\StringComparer.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv9\\cv9\\StringComparer.cs",
+              "RelativeToolTip": "cv9\\StringComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:15:03.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberComarer.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv9\\cv9\\NumberComarer.cs",
+              "RelativeDocumentMoniker": "cv9\\NumberComarer.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv9\\cv9\\NumberComarer.cs",
+              "RelativeToolTip": "cv9\\NumberComarer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:00:49.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\Desktop\\projects\\cv9\\cv9\\Program.cs",
+              "RelativeDocumentMoniker": "cv9\\Program.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\Desktop\\projects\\cv9\\cv9\\Program.cs",
+              "RelativeToolTip": "cv9\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:00:02.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
