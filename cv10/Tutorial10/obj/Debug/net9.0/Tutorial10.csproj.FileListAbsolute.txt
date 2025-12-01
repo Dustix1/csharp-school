@@ -1,0 +1,15 @@
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\bin\Debug\net9.0\Tutorial10.exe
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\bin\Debug\net9.0\Tutorial10.deps.json
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\bin\Debug\net9.0\Tutorial10.runtimeconfig.json
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\bin\Debug\net9.0\Tutorial10.dll
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\bin\Debug\net9.0\Tutorial10.pdb
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\obj\Debug\net9.0\Tutorial10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\obj\Debug\net9.0\Tutorial10.AssemblyInfoInputs.cache
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\obj\Debug\net9.0\Tutorial10.AssemblyInfo.cs
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\obj\Debug\net9.0\Tutorial10.csproj.CoreCompileInputs.cache
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\obj\Debug\net9.0\Tutorial10.sourcelink.json
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\obj\Debug\net9.0\Tutorial10.dll
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\obj\Debug\net9.0\refint\Tutorial10.dll
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\obj\Debug\net9.0\Tutorial10.pdb
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\obj\Debug\net9.0\Tutorial10.genruntimeconfig.cache
+C:\Users\KAN0316\Desktop\projects\cv10\Tutorial10\obj\Debug\net9.0\ref\Tutorial10.dll
